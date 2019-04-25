@@ -4,13 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About Us</title>
+<title>Insert title here</title>
 </head>
 <body>
 
-<br>
-Backend development : Namanraj Varshney <br><br>
-front development  : AmAn GuPtA  <br><br>
-devops tools : Rishabh Singh
+${complaints}
+
 </body>
 </html>

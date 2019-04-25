@@ -4,20 +4,23 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>FoodCom Login</title>
+<title>Register-Yourself</title>
 <link href="/css/login.css" rel="stylesheet" type="text/css">
+<link href="/css/style2.css" rel="stylesheet" type="text/css">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 </head>
 <body>
 
+<nav class="navbar navbar-expand-md navbar-dark fixed-top" id="banner">
+<a class="navbar-brand" href="/"><span>IIIT</span> Bangalore</a></nav>
 
 <div class="sidenav">
          <div class="login-main-text">
-            <h2>Hello, Food Committee<br> </h2>
+            <h2>Hello, Unregistered Student <br> </h2>
             <br>
-            <p>Login to Manage Complaints!</p>
+            <p>Enroll yourself to register Complaints!</p>
          </div>
       </div>
       <div class="main">
